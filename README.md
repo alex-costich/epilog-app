@@ -4,7 +4,7 @@ An epilepsy logger and real-time alert app connected to an IoT mouthpiece that d
 
 ---
 
-## What it does
+## Features
 
 - **Authentication** — Email/password login and registration via Firebase Auth
 - **Groups** — Create or join a group using a 6-character invite code or shared deep link
@@ -13,7 +13,7 @@ An epilepsy logger and real-time alert app connected to an IoT mouthpiece that d
 
 ---
 
-## Tech stack
+## Stack
 
 | Layer          | Technology                       |
 | -------------- | -------------------------------- |
