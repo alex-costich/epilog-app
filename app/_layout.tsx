@@ -40,7 +40,7 @@ export default function RootLayout() {
           backgroundColor: "#0a0a0a",
         }}
       >
-        <ActivityIndicator size="large" color="#e63946" />
+        <ActivityIndicator size="large" color="#7B6FF0" />
       </View>
     );
   }
